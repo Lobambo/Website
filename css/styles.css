@@ -33,19 +33,23 @@ h3{
 
 }
 
-.middle-container{
+.info{
+  display: inline-block;
+  margin-right: 10%;
+  margin-left: 5%;
+  margin-top: 3%;
+}
 
+.info-2{
+  display: inline-block;
+  margin-top: 3%;
+  margin-left: 10%;
 }
 
 .bottom-container{
 background-color: #66BFBF;
 position: relative;
 padding: 50px;
-}
-
-.contact-me{
-  margin-bottom: 100px;
-  line-height: 3;
 }
 
 .skill-row{
@@ -60,8 +64,6 @@ padding: 50px;
   float: left;
   margin-right: 30px;
 }
-
-
 
 .pro{
   text-decoration: underline;
@@ -94,8 +96,6 @@ padding: 50px;
   text-decoration: none;
 
 }
-
-
 
 hr{
   border-style: none;
